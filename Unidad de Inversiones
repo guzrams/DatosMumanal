@@ -1,0 +1,75 @@
+Preguntas 🌿
+
+El test de preguntas reajustado, considerando que el proceso de los beneficios (ASR, Bono de Cesantía y Cuota Mortuoria) se inicia en las AGENCIAS, y la Unidad de Inversiones continúa, valida y concluye el proceso dentro de SIVER II.
+El enfoque ahora es interinstitucional y por flujo de proceso 👇
+________________________________________
+🏢 I. Inicio del Proceso en Agencias
+1.	¿Qué beneficios se pueden iniciar en las agencias? (ASR, Cesantía, Mortuoria)
+2.	¿Quiénes están autorizados en agencia para registrar solicitudes?
+3.	¿Qué información mínima se registra al iniciar el trámite?
+4.	¿Qué documentos físicos o digitales recibe la agencia por cada beneficio?
+5.	¿El sistema valida requisitos básicos en el punto de registro?
+6.	¿La agencia puede observar o rechazar solicitudes?
+7.	¿Se asigna un número de trámite o código único desde la agencia?
+8.	¿La agencia puede editar la solicitud una vez enviada?
+9.	¿Existen plazos máximos para que la agencia remita el trámite?
+10.	¿Qué controles existen para evitar registros duplicados?
+________________________________________
+🔄 II. Transferencia del Proceso a la Unidad de Inversiones
+11.	¿Cómo se deriva el trámite desde la agencia a la Unidad de Inversiones?
+12.	¿La derivación es automática o manual?
+13.	¿En qué estado llega el trámite a Inversiones?
+14.	¿La Unidad de Inversiones puede devolver el trámite a la agencia?
+15.	¿Se notifican las observaciones a la agencia y/o al afiliado?
+16.	¿Se registra fecha y usuario de la derivación?
+17.	¿El sistema mantiene la trazabilidad completa del proceso?
+________________________________________
+🧮 III. Validación y Cálculo en la Unidad de Inversiones
+18.	¿Qué validaciones realiza la Unidad de Inversiones sobre el trámite recibido?
+19.	¿Se recalculan los montos propuestos por la agencia?
+20.	¿Qué información financiera se utiliza para el cálculo final?
+21.	¿Cómo se calculan los montos del ASR?
+22.	¿Cómo se calcula el Bono de Cesantía?
+23.	¿Cómo se determina el monto de la Cuota Mortuoria?
+24.	¿Existen reglas de negocio diferenciadas por beneficio?
+25.	¿El sistema permite ajustes manuales con justificación?
+26.	¿Se registran observaciones técnicas o financieras?
+________________________________________
+💰 IV. Aprobación y Pago del Beneficio
+27.	¿Quién autoriza el beneficio en la Unidad de Inversiones?
+28.	¿Existen niveles de aprobación?
+29.	¿El sistema genera automáticamente la orden de pago?
+30.	¿Cómo se coordina el pago con Tesorería?
+31.	¿Se registra fecha, monto y medio de pago?
+32.	¿Qué sucede si el pago es observado o rechazado?
+33.	¿El afiliado es notificado del pago realizado?
+________________________________________
+📊 V. Seguimiento, Control y Reportes
+34.	¿La agencia puede hacer seguimiento del trámite iniciado?
+35.	¿Qué estados del trámite son visibles para la agencia?
+36.	¿La Unidad de Inversiones cuenta con reportes de control?
+37.	¿Se pueden generar reportes por agencia, beneficio o gestión?
+38.	¿Existen reportes de trámites observados o pendientes?
+39.	¿Se mantiene el historial completo del trámite?
+________________________________________
+🔐 VI. Seguridad, Roles y Auditoría
+40.	¿Qué acciones puede realizar el usuario de agencia?
+41.	¿Qué acciones están reservadas para la Unidad de Inversiones?
+42.	¿Se registran logs por cada cambio de estado?
+43.	¿Es posible anular un trámite ya aprobado?
+44.	¿Qué controles existen para evitar fraudes o duplicidad de pagos?
+45.	¿El sistema cumple con normas de control interno?
+________________________________________
+🔗 VII. Integración con Otros Módulos
+46.	¿Se valida la información del afiliado con otros módulos?
+47.	¿Se cruzan datos con aportes, cuentas individuales o préstamos?
+48.	¿Qué ocurre si el afiliado tiene obligaciones pendientes?
+49.	¿El proceso afecta automáticamente la cuenta individual?
+50.	¿El cierre del trámite actualiza otros módulos del sistema?
+________________________________________
+🚀 VIII. Evaluación y Mejora del Proceso
+51.	¿Qué problemas se presentan en el registro en agencias?
+52.	¿Dónde se generan más observaciones: agencia o inversiones?
+53.	¿Qué partes del proceso son más lentas?
+54.	¿Qué controles podrían automatizarse?
+55.	¿Qué mejoras funcionales son prioritarias?
