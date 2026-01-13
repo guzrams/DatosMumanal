@@ -1,0 +1,82 @@
+Preguntas Prestaciones 🌿
+Test de preguntas dirigido a la Unidad de Prestaciones, elaborado bajo la misma lógica de flujo:
+👉 el proceso se inicia en las Agencias y
+👉 la Unidad de Prestaciones recibe, valida, continúa y concluye el trámite en SIVER II, coordinando cuando corresponde con otras unidades (Inversiones, Tesorería, Contabilidad).
+El cuestionario está pensado para levantamiento funcional, operativo y de control del sistema SIVER II.
+________________________________________
+🏢 I. Rol de la Unidad de Prestaciones en SIVER II
+1.	¿Cuál es el rol específico de la Unidad de Prestaciones dentro de SIVER II?
+2.	¿Qué tipos de prestaciones gestiona la unidad a través del sistema?
+3.	¿Qué procesos se inician en agencias y continúan en Prestaciones?
+4.	¿Qué diferencia existe entre las funciones de Agencia y Prestaciones en el sistema?
+5.	¿Qué normativa respalda los procesos gestionados por Prestaciones?
+________________________________________
+🔄 II. Recepción de Trámites desde Agencias
+6.	¿Cómo recibe la Unidad de Prestaciones los trámites registrados en agencias?
+7.	¿En qué estado llegan los trámites a la unidad?
+8.	¿El sistema notifica automáticamente la recepción de nuevos trámites?
+9.	¿Qué información mínima debe contener un trámite para ser procesado?
+10.	¿Qué ocurre si el trámite llega incompleto o con errores?
+11.	¿Se puede devolver el trámite a la agencia?
+12.	¿Se registran observaciones y responsables de la devolución?
+13.	¿El sistema mantiene la trazabilidad completa desde la agencia?
+________________________________________
+🗂️ III. Validación y Gestión del Trámite
+14.	¿Qué validaciones realiza la Unidad de Prestaciones sobre cada trámite?
+15.	¿Se valida la información personal del afiliado en otros módulos?
+16.	¿Se verifica el cumplimiento de requisitos legales y reglamentarios?
+17.	¿El sistema permite adjuntar o revisar documentación digitalizada?
+18.	¿Existen estados del trámite durante su procesamiento?
+19.	¿Se pueden realizar correcciones internas al trámite?
+20.	¿Qué controles existen para evitar duplicidad de solicitudes?
+________________________________________
+🧮 IV. Evaluación y Determinación del Beneficio
+21.	¿La Unidad de Prestaciones calcula directamente los montos del beneficio?
+22.	¿Qué variables utiliza el sistema para el cálculo?
+23.	¿El cálculo es automático o requiere validación manual?
+24.	¿Se generan observaciones técnicas o legales?
+25.	¿El sistema permite suspender un trámite por inconsistencias?
+26.	¿Se pueden rechazar trámites? ¿Con qué causal?
+27.	¿Se registra la resolución final en el sistema?
+________________________________________
+💰 V. Aprobación y Coordinación para el Pago
+28.	¿Quiénes aprueban los beneficios dentro de la Unidad de Prestaciones?
+29.	¿Existen niveles o jerarquías de aprobación?
+30.	¿Cómo se deriva el trámite aprobado a Tesorería o Inversiones?
+31.	¿El sistema genera automáticamente órdenes de pago?
+32.	¿La Unidad de Prestaciones puede ver el estado del pago?
+33.	¿Qué ocurre si el pago es observado o rechazado?
+34.	¿El sistema notifica el pago concluido?
+________________________________________
+📊 VI. Seguimiento, Control y Reportes
+35.	¿La Unidad de Prestaciones puede realizar seguimiento completo del trámite?
+36.	¿Qué estados del trámite están disponibles para consulta?
+37.	¿Qué reportes utiliza la unidad para control y gestión?
+38.	¿Se pueden generar reportes por agencia, tipo de prestación o gestión?
+39.	¿Existen reportes de trámites observados, rechazados o pendientes?
+40.	¿Se mantiene un historial completo por afiliado?
+________________________________________
+🔐 VII. Seguridad, Roles y Auditoría
+41.	¿Qué roles existen dentro de la Unidad de Prestaciones en SIVER II?
+42.	¿Qué acciones puede realizar cada rol?
+43.	¿Se registran logs de modificaciones y aprobaciones?
+44.	¿Es posible revertir o anular un trámite ya aprobado?
+45.	¿Qué controles existen para evitar fraudes o errores administrativos?
+46.	¿El sistema cumple con normas de control interno y auditoría?
+________________________________________
+🔗 VIII. Integración con Otros Módulos
+47.	¿Con qué otros módulos de SIVER II se integra Prestaciones?
+48.	¿Cómo se coordina con Inversiones cuando el beneficio lo requiere?
+49.	¿Se cruza información con aportes, cuentas individuales o préstamos?
+50.	¿El cierre del trámite actualiza automáticamente otros módulos?
+51.	¿Qué sucede si existen deudas u observaciones en otros módulos?
+________________________________________
+🚀 IX. Problemas, Riesgos y Mejoras
+52.	¿Cuáles son los problemas más frecuentes en los trámites recibidos?
+53.	¿En qué parte del proceso se generan más retrasos?
+54.	¿Qué tareas son manuales y podrían automatizarse?
+55.	¿Qué mejoras funcionales necesita el módulo de Prestaciones?
+56.	¿Qué riesgos operativos existen en el proceso actual?
+57.	¿Qué tan crítico es SIVER II para la operación de la unidad?
+
+
